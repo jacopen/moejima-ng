@@ -1,0 +1,11 @@
+name: moejima-ng
+server: chat.freenode.net
+port: 6667
+realname: moejima-ng
+user: moejima-ng
+nick: moejima-ng
+encoding: UTF-8
+channels:
+  - "#udcp-dev2"
+plugins:
+  - TimerEvent
